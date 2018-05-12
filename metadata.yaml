@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '32033'
     url: http://www.gutenberg.org/2009/agents/32033
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28726#The-Boy-Scouts-Book-of-Stories
 gutenberg_bookshelf: Scouts
 gutenberg_issued: '2009-05-08'
 gutenberg_type: Text

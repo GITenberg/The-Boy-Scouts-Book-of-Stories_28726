@@ -1,0 +1,43 @@
+_repo: The-Boy-Scouts-Book-of-Stories_28726
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Scott, Arthur D.
+    gutenberg_agent_id: '33505'
+    url: http://www.gutenberg.org/2009/agents/33505
+  - agent_name: Louderback, Walt
+    alias: Louderback, Walter
+    gutenberg_agent_id: '33504'
+    url: http://www.gutenberg.org/2009/agents/33504
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Mathiews, Franklin K.
+    gutenberg_agent_id: '32033'
+    url: http://www.gutenberg.org/2009/agents/32033
+description: ''
+gutenberg_bookshelf: Scouts
+gutenberg_issued: '2009-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28726'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PN'
+tableOfContents: The great big man / O. Johnson -- A twilight adventure / M.D. Post
+  -- Tad Sheldon, second class scout / J.F. Wilson -- The red-headed league / A.C.
+  Doyle -- The ransom of Red Chief / O. Henry -- The honk-honk breed / S.E. White
+  -- The devil-fish / N. Duncan -- The jumping frog / Mark Twain --Bingism / B. Tarkingtorn
+  -- Concho Curly at the op'ra / E.B. Bronson -- The lie / H. Hagedorn -- Story of
+  the bandbox / R.L. Stevenson -- The hero and the cowboy / J.C. Lincoln -- The dollar
+  / M. Robertson -- The mascot of "Troop 1" / S. Chalmers -- The lion's smile / T.W.
+  Hanshew -- The roll-call of the reef / A.T. Quiller-Couch -- The house and the brain
+  / E. Bulwer-Lytton.
+title: The Boy Scouts Book of Stories
+url: http://www.gutenberg.org/ebooks/28726
